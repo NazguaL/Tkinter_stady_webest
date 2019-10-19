@@ -14,7 +14,6 @@ class Question:
 
         self.button_1.bind("<Button-1>", self.answer)
 
-
     def answer(self, event):
         txt = self.entry_1.get()
 

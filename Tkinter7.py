@@ -15,7 +15,7 @@ def print_cd(event):
 
 root = Tk()
 
-label_1 = Label(root, width=12, font="ubuntu 12")
+label_1 = Label(root, width=12, font="Ubuntu 20")
 label_1.pack()
 
 for i in range(61, 127):
